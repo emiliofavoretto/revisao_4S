@@ -45,5 +45,12 @@
         "campeao": 2,
         "descricao": "Vice-campeã da Copa de 2022. Vem em 2026 como uma das promissoras ao título.",
         "imagem": "/img/franca.tiff"
+    },
+    {
+        "id": 8,
+        "nome": "Itália",
+        "campeao": 2,
+        "descricao": "Quatro vezes campeã mundial, a Itália é conhecida por sua defesa sólida e estilo de jogo tático.",
+        "imagem": null
     }
 ]
